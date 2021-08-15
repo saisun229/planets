@@ -1,0 +1,25 @@
+.generate-planets__button {
+    background-image: linear-gradient(
+        135deg
+        , #4fce99 11%, #1996da);
+    border-style: none;
+    color: white;
+    font-weight: 700;
+    padding: 14px 30px;
+    border-width: 2px;
+    font-size: 18px;
+    line-height: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.generate-planets__button:hover, .generate-planets__button:active {
+    box-shadow: 0 2px 14px -4px rgb(0 0 0 / 50%);
+}
+
+.generate-planets {
+    margin-bottom: 2rem;
+}
+.generate-planets__err {
+    min-width: 400px;
+}

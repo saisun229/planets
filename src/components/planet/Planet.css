@@ -1,0 +1,8 @@
+.planet {
+    border : 1px solid #d3d3d3;
+    margin-top: 1rem;
+}
+
+.planet__text {
+    min-width: 200px;
+}

@@ -1,0 +1,17 @@
+.banner {
+    padding: 10px 2%;
+    background-color: transparent;
+    position: relative;
+    background: #dddddd;
+    z-index: 1000;
+    background-image: linear-gradient(
+135deg
+, rgba(25, 150, 218, 0.8) 21%, rgba(75, 187, 163, 0.8));
+    width: 100%;
+    margin-bottom: 4rem;
+}
+.logo {
+    width: 157px;
+    margin-right: 1%;
+    margin-bottom: 3px;
+}
